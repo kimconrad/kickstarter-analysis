@@ -25,8 +25,9 @@ Minor difficulty with syntax of COUNTIFS() function. Referred to explainer video
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. The most popular time of year to launch a Theater campaign is early-mid summer: May, June, and July showed the highest quantity of launches). 
-2. This is also the time of year with the highest quantity of success. The quantity of Failed or Canceled campaigns stayed relatively constant throughout the year with minor fluctuations, but the quantity of Successful campaigns in May was double that of March. The winter (especially Nov and Dec) has the lowest rates of success. 
+The most popular time of year to launch a Theater campaign is early-mid summer: May, June, and July showed the highest quantity of launches). 
+
+This is also the time of year with the highest quantity of success. The quantity of Failed or Canceled campaigns stayed relatively constant throughout the year with minor fluctuations, but the quantity of Successful campaigns in May was double that of March. The winter (especially Nov and Dec) has the lowest rates of success. 
 
 - What can you conclude about the Outcomes based on Goals?
 
